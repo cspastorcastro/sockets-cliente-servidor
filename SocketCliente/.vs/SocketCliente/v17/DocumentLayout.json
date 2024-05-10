@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\sockets-cliente-servidor\\SocketCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCD8817-0E6E-4924-8B2E-BB044BA04957}|SocketServidor\\SocketServidor.csproj|t:\\sockets-cliente-servidor\\socketcliente\\socketservidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCD8817-0E6E-4924-8B2E-BB044BA04957}|SocketServidor\\SocketServidor.csproj|solutionrelative:socketservidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264CC08D-41C6-437F-8679-64ED61CB70F5}|SocketCliente\\SocketCliente.csproj|t:\\sockets-cliente-servidor\\socketcliente\\socketcliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264CC08D-41C6-437F-8679-64ED61CB70F5}|SocketCliente\\SocketCliente.csproj|solutionrelative:socketcliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264CC08D-41C6-437F-8679-64ED61CB70F5}|SocketCliente\\SocketCliente.csproj|t:\\sockets-cliente-servidor\\socketcliente\\socketcliente\\comunicacion\\clientesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264CC08D-41C6-437F-8679-64ED61CB70F5}|SocketCliente\\SocketCliente.csproj|solutionrelative:socketcliente\\comunicacion\\clientesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCD8817-0E6E-4924-8B2E-BB044BA04957}|SocketServidor\\SocketServidor.csproj|t:\\sockets-cliente-servidor\\socketcliente\\socketservidor\\comunicacion\\clientecom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCD8817-0E6E-4924-8B2E-BB044BA04957}|SocketServidor\\SocketServidor.csproj|solutionrelative:socketservidor\\comunicacion\\clientecom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCD8817-0E6E-4924-8B2E-BB044BA04957}|SocketServidor\\SocketServidor.csproj|t:\\sockets-cliente-servidor\\socketcliente\\socketservidor\\comunicacion\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCD8817-0E6E-4924-8B2E-BB044BA04957}|SocketServidor\\SocketServidor.csproj|solutionrelative:socketservidor\\comunicacion\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264CC08D-41C6-437F-8679-64ED61CB70F5}|SocketCliente\\SocketCliente.csproj|t:\\sockets-cliente-servidor\\socketcliente\\socketcliente\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{264CC08D-41C6-437F-8679-64ED61CB70F5}|SocketCliente\\SocketCliente.csproj|solutionrelative:socketcliente\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCD8817-0E6E-4924-8B2E-BB044BA04957}|SocketServidor\\SocketServidor.csproj|t:\\sockets-cliente-servidor\\socketcliente\\socketservidor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8BCD8817-0E6E-4924-8B2E-BB044BA04957}|SocketServidor\\SocketServidor.csproj|solutionrelative:socketservidor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteCom.cs",
+              "DocumentMoniker": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketServidor\\Comunicacion\\ClienteCom.cs",
+              "RelativeDocumentMoniker": "SocketServidor\\Comunicacion\\ClienteCom.cs",
+              "ToolTip": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketServidor\\Comunicacion\\ClienteCom.cs",
+              "RelativeToolTip": "SocketServidor\\Comunicacion\\ClienteCom.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:42:52.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteSocket.cs",
+              "DocumentMoniker": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketCliente\\Comunicacion\\ClienteSocket.cs",
+              "RelativeDocumentMoniker": "SocketCliente\\Comunicacion\\ClienteSocket.cs",
+              "ToolTip": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketCliente\\Comunicacion\\ClienteSocket.cs",
+              "RelativeToolTip": "SocketCliente\\Comunicacion\\ClienteSocket.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowFQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:06:46.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketCliente\\Program.cs",
+              "RelativeDocumentMoniker": "SocketCliente\\Program.cs",
+              "ToolTip": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketCliente\\Program.cs",
+              "RelativeToolTip": "SocketCliente\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:06:13.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketServidor\\Program.cs",
+              "RelativeDocumentMoniker": "SocketServidor\\Program.cs",
+              "ToolTip": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketServidor\\Program.cs",
+              "RelativeToolTip": "SocketServidor\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:24:13.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketCliente\\App.config",
+              "RelativeDocumentMoniker": "SocketCliente\\App.config",
+              "ToolTip": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketCliente\\App.config",
+              "RelativeToolTip": "SocketCliente\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-09T23:07:18.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerSocket.cs",
+              "DocumentMoniker": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketServidor\\Comunicacion\\ServerSocket.cs",
+              "RelativeDocumentMoniker": "SocketServidor\\Comunicacion\\ServerSocket.cs",
+              "ToolTip": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketServidor\\Comunicacion\\ServerSocket.cs",
+              "RelativeToolTip": "SocketServidor\\Comunicacion\\ServerSocket.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:45:29.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketServidor\\App.config",
+              "RelativeDocumentMoniker": "SocketServidor\\App.config",
+              "ToolTip": "T:\\sockets-cliente-servidor\\SocketCliente\\SocketServidor\\App.config",
+              "RelativeToolTip": "SocketServidor\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-09T22:26:11.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

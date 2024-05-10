@@ -1,0 +1,7 @@
+T:\sockets-cliente-servidor\SocketCliente\SocketServidor\bin\Debug\SocketServidor.exe.config
+T:\sockets-cliente-servidor\SocketCliente\SocketServidor\bin\Debug\SocketServidor.exe
+T:\sockets-cliente-servidor\SocketCliente\SocketServidor\bin\Debug\SocketServidor.pdb
+T:\sockets-cliente-servidor\SocketCliente\SocketServidor\obj\Debug\SocketServidor.csproj.AssemblyReference.cache
+T:\sockets-cliente-servidor\SocketCliente\SocketServidor\obj\Debug\SocketServidor.csproj.CoreCompileInputs.cache
+T:\sockets-cliente-servidor\SocketCliente\SocketServidor\obj\Debug\SocketServidor.exe
+T:\sockets-cliente-servidor\SocketCliente\SocketServidor\obj\Debug\SocketServidor.pdb
